@@ -71,3 +71,4 @@ print(ride_to_school, ride_home)
 
 ## Summary
 Great! In this lab, we were able to define multiple classes and create instances of those classes.
+# 10.26-Instances-And-Classes-Lab
